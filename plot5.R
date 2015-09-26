@@ -30,3 +30,4 @@ gplot <- ggplot(baltvehicles,aes(factor(year),Emissions)) +
 print(gplot)
 
 dev.off()
+
